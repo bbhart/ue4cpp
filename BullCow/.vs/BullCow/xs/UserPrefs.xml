@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F2F3DDAF-9E7D-48A1-B024-2811EF81EFFD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BullCow/requirements.md">
+    <Files>
+      <File FileName="BullCow/requirements.md" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BullCow" expanded="True">
+            <Node name="BullCow" expanded="True">
+              <Node name="requirements.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.ItemProperties.BullCow FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
